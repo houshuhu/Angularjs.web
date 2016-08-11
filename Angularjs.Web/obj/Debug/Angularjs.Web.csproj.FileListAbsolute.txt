@@ -1,0 +1,12 @@
+E:\housh\Git\Ng\Angularjs.Web\Angularjs.Web\bin\Angularjs.Web.dll.config
+E:\housh\Git\Ng\Angularjs.Web\Angularjs.Web\bin\Angularjs.Web.dll
+E:\housh\Git\Ng\Angularjs.Web\Angularjs.Web\bin\Angularjs.Web.pdb
+E:\housh\Git\Ng\Angularjs.Web\Angularjs.Web\obj\Debug\Angularjs.Web.csprojResolveAssemblyReference.cache
+E:\housh\Git\Ng\Angularjs.Web\Angularjs.Web\obj\Debug\Angularjs.Web.dll
+E:\housh\Git\Ng\Angularjs.Web\Angularjs.Web\obj\Debug\Angularjs.Web.pdb
+E:\housh\Git\Angularjs.web\Angularjs.Web\bin\Angularjs.Web.dll.config
+E:\housh\Git\Angularjs.web\Angularjs.Web\bin\Angularjs.Web.dll
+E:\housh\Git\Angularjs.web\Angularjs.Web\bin\Angularjs.Web.pdb
+E:\housh\Git\Angularjs.web\Angularjs.Web\obj\Debug\Angularjs.Web.csprojResolveAssemblyReference.cache
+E:\housh\Git\Angularjs.web\Angularjs.Web\obj\Debug\Angularjs.Web.dll
+E:\housh\Git\Angularjs.web\Angularjs.Web\obj\Debug\Angularjs.Web.pdb

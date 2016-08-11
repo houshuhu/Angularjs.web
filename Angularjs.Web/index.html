@@ -1,0 +1,17 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script src="script/libs/angular.min.js"></script>
+    <script src="script/app.js"></script>
+    <script src="script/controllers/indexController.js"></script>
+    <title>Index</title>
+</head>
+<body ng-app="myapp">
+    <div ng-controller="indexcontrol">
+        <input ng-model="name" />
+        <div ng-bind="name"></div>
+    </div>
+</body>
+
+</html>
